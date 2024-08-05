@@ -1,1 +1,1 @@
-A seond year project. Built with the help to youtube tutorial and to hone MERN web development skills including how to handle errors, middlewares, how to handle databases, use restful apis and much more backend features and frontend development concepts. Currently an ongoing project.  Steps to start the web application will bw uploaded soon. 
+
